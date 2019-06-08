@@ -1,1 +1,1 @@
-# MyCollege
+# college
